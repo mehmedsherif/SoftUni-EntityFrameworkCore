@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F68030C-1740-45D3-9A9B-8AF4A76461AB}|02.FootballBetting\\P02_FootballBetting.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\02.footballbetting\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F68030C-1740-45D3-9A9B-8AF4A76461AB}|02.FootballBetting\\P02_FootballBetting.csproj|solutionrelative:02.footballbetting\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA129A29-C46C-4619-9C09-B72925B47E42}|PO2_FootballBetting.Data\\PO2_FootballBetting.Data.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\po2_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA129A29-C46C-4619-9C09-B72925B47E42}|PO2_FootballBetting.Data\\PO2_FootballBetting.Data.csproj|solutionrelative:po2_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.data.models\\enumerations\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB7B3C0-7FC3-4441-BA72-E52655BD1CD6}|P02_FootballBetting.Data.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.data.models\\enumerations\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD376E18-B5DB-4208-B544-DFE649C9EDEE}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD376E18-B5DB-4208-B544-DFE649C9EDEE}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|solutionrelative:p02_footballbetting.common\\entityvalidationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD376E18-B5DB-4208-B544-DFE649C9EDEE}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|c:\\users\\mehme\\source\\repos\\entityrelations\\p02_footballbetting.common\\applicationcommonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD376E18-B5DB-4208-B544-DFE649C9EDEE}|P02_FootballBetting.Common\\P02_FootballBetting.Common.csproj|solutionrelative:p02_footballbetting.common\\applicationcommonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\User.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\User.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\User.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:19:18.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FootballBettingContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\PO2_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeDocumentMoniker": "PO2_FootballBetting.Data\\FootballBettingContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\PO2_FootballBetting.Data\\FootballBettingContext.cs*",
+              "RelativeToolTip": "PO2_FootballBetting.Data\\FootballBettingContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:27:33.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\02.FootballBetting\\StartUp.cs",
+              "RelativeDocumentMoniker": "02.FootballBetting\\StartUp.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\02.FootballBetting\\StartUp.cs*",
+              "RelativeToolTip": "02.FootballBetting\\StartUp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:49:12.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Town.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Town.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Town.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Town.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Town.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:11:43.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Team.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Team.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Team.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Team.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:16:50.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Position.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Position.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Position.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Position.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:54:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerStatistic.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\PlayerStatistic.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\PlayerStatistic.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\PlayerStatistic.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\PlayerStatistic.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:07:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Player.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Player.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Player.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Player.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:49:03.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Game.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Game.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Game.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Game.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:17:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Country.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Country.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Country.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Country.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:29:36.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Color.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Color.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Color.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Color.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:16:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Bet.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Bet.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Bet.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Bet.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:16:37.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Prediction.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Enumerations\\Prediction.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data.Models\\Enumerations\\Prediction.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Data.Models\\Enumerations\\Prediction.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data.Models\\Enumerations\\Prediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:32:37.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityValidationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Common\\EntityValidationConstants.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Common\\EntityValidationConstants.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Common\\EntityValidationConstants.cs*",
+              "RelativeToolTip": "P02_FootballBetting.Common\\EntityValidationConstants.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:32:07.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationCommonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Common\\ApplicationCommonConfiguration.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Common\\ApplicationCommonConfiguration.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\EntityRelations\\P02_FootballBetting.Common\\ApplicationCommonConfiguration.cs",
+              "RelativeToolTip": "P02_FootballBetting.Common\\ApplicationCommonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:36:27.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
